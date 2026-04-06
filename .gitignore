@@ -1,0 +1,33 @@
+
+# Données brutes — trop lourdes pour GitHub
+data/raw/
+data/embeddings/
+data/processed/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+env/
+.venv/
+
+# Node / React
+node_modules/
+frontend/build/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Modèles LLM (trop lourds)
+*.bin
+*.gguf
+*.safetensors
+models/ 
