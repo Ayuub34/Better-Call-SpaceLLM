@@ -7,10 +7,10 @@ international space law, based on a curated corpus of UN treaties,
 national space laws, and multilateral agreements (EN/FR/RU/ZH/ES).
 
 ## Tech Stack
-- **AI/ML** : LangChain · Mistral 7B · ChromaDB · HuggingFace
+- **AI/ML** : LangChain · Llama · ChromaDB · HuggingFace
 - **Backend** : FastAPI · Python
-- **Frontend** : React · TailwindCSS
-- **Data** : UNOOSA · NASA · ESA · ITU · ASTRO
+- **Frontend** : React/Streamlit · HTML · CSS (TailwindCSS)
+- **Data** : UNOOSA · NASA · ESA · ITU · ASTRO (.pdf, .txt , .docx , etc.)
 
 ## Status
 🚧 Work in progress — Phase 1 (Data Pipeline)
