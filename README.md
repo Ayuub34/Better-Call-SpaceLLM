@@ -13,7 +13,7 @@ national space laws, and multilateral agreements (EN/FR/RU/ZH/ES).
 - **Data** : UNOOSA · NASA · ESA · ITU · ASTRO (.pdf, .txt , .docx , etc.)
 
 ## Status
-🚧 Work in progress — Phase 1 (Data Pipeline)
+🚧 Work in progress — Phase 1 (Data Pipeline)  
 🚧 Work in progress — Phase 2 (RAG Pipeline)
 
 ## Roadmap
