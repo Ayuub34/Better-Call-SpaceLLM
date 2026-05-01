@@ -17,7 +17,7 @@ national space laws, and multilateral agreements (EN/FR/RU/ZH/ES).
 
 ## Roadmap
 - [x] Phase 1 — Data collection (33 documents, 7 sources)
-- [ ] Phase 2 — RAG core pipeline
+- [x] Phase 2 — RAG core pipeline
 - [ ] Phase 3 — Agentic orchestration
 - [ ] Phase 4 — FastAPI backend
 - [ ] Phase 5 — React frontend
