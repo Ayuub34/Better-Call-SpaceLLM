@@ -14,6 +14,7 @@ national space laws, and multilateral agreements (EN/FR/RU/ZH/ES).
 
 ## Status
 🚧 Work in progress — Phase 1 (Data Pipeline)
+🚧 Work in progress — Phase 2 (RAG Pipeline)
 
 ## Roadmap
 - [x] Phase 1 — Data collection (33 documents, 7 sources)
